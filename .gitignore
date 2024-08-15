@@ -1,0 +1,39 @@
+# created by virtualenv automatically
+
+# Virtual environments
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Django stuff:
+**/migrations/__pycache__/
+*.sqlite3
+
+# Static and media files
+media/
+static/
+
+# IDEs and editors
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Node modules (if applicable)
+node_modules/
+
+# Coverage reports
+htmlcov/
+.coverage
+
+# Celery & Redis
+celerybeat-schedule
+celerybeat.pid
