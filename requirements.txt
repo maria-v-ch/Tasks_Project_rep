@@ -6,6 +6,7 @@ click==8.1.7
 click-didyoumean==0.3.1
 click-plugins==1.1.1
 click-repl==0.3.0
+coverage==7.6.1
 Django==5.1
 django-filter==24.3
 django-redis==5.4.0
